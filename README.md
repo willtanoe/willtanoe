@@ -26,6 +26,6 @@
 
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willtanoe&repo=kernel_xiaomi_sm6150)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/willtanoe/kernel_xiaomi_sm6150))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willtanoe&repo=kernel_xiaomi_sm6150&show_owner)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/willtanoe/kernel_xiaomi_sm6150))
 
 

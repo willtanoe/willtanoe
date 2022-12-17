@@ -4,7 +4,7 @@
 
 </br>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/avalancherandom">
   <img src="https://img.shields.io/badge/Telegram-Group-33A8E3" alt="Telegram Group"/>
   </a>

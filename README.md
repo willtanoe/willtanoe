@@ -18,7 +18,7 @@
 </br>
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=willtanoe&theme=transparent" />
+<img style="height: auto; width: 55%;" class="img" src="[http://github-readme-streak-stats.herokuapp.com?user=willtanoe&theme=win](https://github-readme-stats.vercel.app/api?willtanoe=user&show_icons=true&theme=transparent)" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willtanoe&theme=transparent&langs_count=8&layout=compact" /></div>

@@ -24,8 +24,4 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willtanoe&theme=transparent&langs_count=8&layout=compact" /></div>
 </div>
 
-</br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willtanoe&repo=kernel_xiaomi_sm6150&show_owner=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/willtanoe/kernel_xiaomi_sm6150))
-
 

@@ -1,30 +1,27 @@
-<p align="center">
-  <img src="https://i.postimg.cc/J79D8XvR/sas.jpg" alt="Profile Banner" width="800" />
-</p>
-
 <div align="center">
-  <a href="https://t.me/avalanchestuff">
-    <img src="https://img.shields.io/badge/Telegram_Channel-33A8E3?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"/>
-  </a>
-  <a href="https://t.me/avalancherandom">
-    <img src="https://img.shields.io/badge/Telegram_Group-33A8E3?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group"/>
-  </a>
-  <a href="https://linkedin.com/in/willtanoe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33A8E3&center=true&vCenter=true&width=800&lines=Network+Engineering+%26+Cyber+Security;IoT+Intrusion+Detection+Systems;Deep+Learning+Researcher;C%2B%2B+%26+Python+Developer" alt="Typing SVG" />
   </a>
 </div>
 
-<br />
+<br/>
 
-<h3 align="center">M.Sc. Student in Electrical Engineering | Network Engineering & Cyber Security</h3>
-<p align="center"><b>Telkom University, Indonesia</b></p>
+<h3 align="center">M.Sc. Student in Electrical Engineering | Telkom University, Indonesia</h3>
 
 <p align="center">
-  Currently researching <b>IoT Intrusion Detection Systems (IDS)</b> using Deep Learning and the <b>CICIoT2023</b> dataset. <br />
-  Experienced in Python, Machine Learning (PyTorch), and low-level system modification (C++/Reverse Engineering).
+  Currently researching <b>IoT Intrusion Detection Systems (IDS)</b> using Deep Learning models and the <b>CICIoT2023</b> dataset. <br />
+  Bridging the gap between low-level system architecture and advanced network security.
 </p>
 
-<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=willtanoe&show_icons=true&theme=transparent&hide_border=true&title_color=33A8E3" height="165" alt="GitHub Stats" />

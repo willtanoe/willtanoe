@@ -24,6 +24,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willtanoe&show_icons=true&theme=transparent&hide_border=true&title_color=33A8E3" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willtanoe&theme=transparent&hide_border=true&langs_count=8&layout=compact&title_color=33A8E3" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-nu-sage-81.vercel.app/api?username=willtanoe&show_icons=true&theme=transparent&hide_border=true&title_color=33A8E3" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-nu-sage-81.vercel.app/api/top-langs/?username=willtanoe&theme=transparent&hide_border=true&langs_count=8&layout=compact&title_color=33A8E3" height="165" alt="Top Languages" />
 </p>

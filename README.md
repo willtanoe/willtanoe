@@ -6,10 +6,10 @@
 
 <br/>
 
-<h3 align="center">M.Sc. Student in Electrical Engineering | Telkom University, Indonesia</h3>
+<h3 align="center">M.Eng. Student in Electrical Engineering | Telkom University, Indonesia</h3>
 
 <p align="center">
-  Currently researching <b>IoT Intrusion Detection Systems (IDS)</b> using Deep Learning models and the <b>CICIoT2023</b> dataset. <br />
+  Interest in IoT Intrusion Detection Systems (IDS)</b> using Deep Learning models and the <b>CICIoT2023</b> dataset. <br />
   Bridging the gap between low-level system architecture and advanced network security.
 </p>
 
